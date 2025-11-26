@@ -68,7 +68,7 @@
           <mxGeometry x="-490" y="320" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="831fKnikVhSjByklr71S-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实体识别&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-430" y="345" width="60" height="30" as="geometry" />
+          <mxGeometry x="-430" y="345" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="831fKnikVhSjByklr71S-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-490" y="450" width="180" height="80" as="geometry" />
