@@ -119,10 +119,10 @@
           <mxGeometry y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="831fKnikVhSjByklr71S-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="430" width="180" height="50" as="geometry" />
+          <mxGeometry x="-50" y="560" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="831fKnikVhSjByklr71S-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实体识别&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="440" width="80" height="30" as="geometry" />
+          <mxGeometry y="570" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
