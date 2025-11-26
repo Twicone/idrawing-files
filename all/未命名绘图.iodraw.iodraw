@@ -139,8 +139,8 @@
         <mxCell id="831fKnikVhSjByklr71S-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;原始数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1130" y="435" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="831fKnikVhSjByklr71S-51" value="三元组" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-750" y="440" width="110" height="60" as="geometry" />
+        <mxCell id="831fKnikVhSjByklr71S-51" value="去冗三元组" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-455" y="585" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="831fKnikVhSjByklr71S-52" value="实体，关系，实体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="831fKnikVhSjByklr71S-51">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
