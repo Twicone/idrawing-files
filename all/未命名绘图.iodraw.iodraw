@@ -145,6 +145,12 @@
         <mxCell id="831fKnikVhSjByklr71S-52" value="实体，关系，实体" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="831fKnikVhSjByklr71S-51">
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="831fKnikVhSjByklr71S-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="474.5" as="sourcePoint" />
+            <mxPoint x="-160" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
